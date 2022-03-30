@@ -41,11 +41,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-<img src='start-stop.gif' />
-<img src='win.gif' />
-<img src='lose.gif' />
-<img src='game.mp4' />
-<img src='music.mp4' />
+![Win](https://imgur.com/9FGB3f6)
+![Lose](https://imgur.com/UpwqnfV)
+![Start/Stop](https://imgur.com/2rtdC2u)
+![Music Button](https://imgur.com/VTcbw7P)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough (GIF)
 
-![Win](https://user-images.githubusercontent.com/72717665/160927574-016fa33a-fd71-4ffa-ad3d-d85274872fc2.mp4)
+![Win(https://imgur.com/N7jQgW0)](https://user-images.githubusercontent.com/72717665/160927574-016fa33a-fd71-4ffa-ad3d-d85274872fc2.mp4)
 <img src='https://imgur.com/9FGB3f6' />
 ![Lose](https://user-images.githubusercontent.com/72717665/160927678-949badaa-64a6-4e11-bcdb-92dd07854346.mp4)
 <img src='https://imgur.com/UpwqnfV' />

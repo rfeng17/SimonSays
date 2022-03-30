@@ -37,14 +37,15 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Added a playMusic() function that plays a short randomized melody using the notes of the game.
-- [x] Editted guess(btn) function to re-play clues when guessed incorrectly.
+- [x] Editted guess(btn) function to replay clues when guessed incorrectly.
 
 ## Video Walkthrough (GIF)
 
-![Win](https://imgur.com/9FGB3f6)
-![Lose](https://imgur.com/UpwqnfV)
-![Start/Stop](https://imgur.com/2rtdC2u)
-![Music Button](https://imgur.com/VTcbw7P)
+![Win](https://imgur.com/9FGB3f6)(https://user-images.githubusercontent.com/72717665/160927574-016fa33a-fd71-4ffa-ad3d-d85274872fc2.mp4)
+![Lose](https://imgur.com/UpwqnfV)(https://user-images.githubusercontent.com/72717665/160927678-949badaa-64a6-4e11-bcdb-92dd07854346.mp4)
+![Start/Stop](https://imgur.com/2rtdC2u)(https://user-images.githubusercontent.com/72717665/160927600-aa9b67cd-3a23-404d-80a6-62e274538a4f.mp4)
+![Music Button](https://imgur.com/VTcbw7P)(https://user-images.githubusercontent.com/72717665/160927737-8162d989-1afc-403e-8cbb-f0b5bb5d70ec.mp4)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 

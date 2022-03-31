@@ -42,10 +42,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 ![Win Example Link](https://user-images.githubusercontent.com/72717665/160927574-016fa33a-fd71-4ffa-ad3d-d85274872fc2.mp4)
+<img src='win.gif'>
 -
 ![Lose Example Link](https://user-images.githubusercontent.com/72717665/160927678-949badaa-64a6-4e11-bcdb-92dd07854346.mp4)
--
 <img src='lose.gif'>
+-
 ![Start/Stop Example Link](https://user-images.githubusercontent.com/72717665/160927600-aa9b67cd-3a23-404d-80a6-62e274538a4f.mp4)
 -
 ![Music Button Example Link](https://user-images.githubusercontent.com/72717665/160927737-8162d989-1afc-403e-8cbb-f0b5bb5d70ec.mp4)

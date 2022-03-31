@@ -48,6 +48,7 @@ The following **additional** features are implemented:
 <img src='lose.gif'>
 -
 ![Start/Stop Example Link](https://user-images.githubusercontent.com/72717665/160927600-aa9b67cd-3a23-404d-80a6-62e274538a4f.mp4)
+<img src='start.gif'>
 -
 ![Music Button Example Link](https://user-images.githubusercontent.com/72717665/160927737-8162d989-1afc-403e-8cbb-f0b5bb5d70ec.mp4)
 -
